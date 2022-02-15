@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\EjemploClase\EjemploClase\bin\Debug\net6.0\EjemploClase.exe
+C:\Users\Lenovo\source\repos\EjemploClase\EjemploClase\bin\Debug\net6.0\EjemploClase.deps.json
+C:\Users\Lenovo\source\repos\EjemploClase\EjemploClase\bin\Debug\net6.0\EjemploClase.runtimeconfig.json
+C:\Users\Lenovo\source\repos\EjemploClase\EjemploClase\bin\Debug\net6.0\EjemploClase.dll
+C:\Users\Lenovo\source\repos\EjemploClase\EjemploClase\bin\Debug\net6.0\ref\EjemploClase.dll
+C:\Users\Lenovo\source\repos\EjemploClase\EjemploClase\bin\Debug\net6.0\EjemploClase.pdb
+C:\Users\Lenovo\source\repos\EjemploClase\EjemploClase\obj\Debug\net6.0\EjemploClase.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\EjemploClase\EjemploClase\obj\Debug\net6.0\EjemploClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\EjemploClase\EjemploClase\obj\Debug\net6.0\EjemploClase.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\EjemploClase\EjemploClase\obj\Debug\net6.0\EjemploClase.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\EjemploClase\EjemploClase\obj\Debug\net6.0\EjemploClase.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EjemploClase\EjemploClase\obj\Debug\net6.0\EjemploClase.dll
+C:\Users\Lenovo\source\repos\EjemploClase\EjemploClase\obj\Debug\net6.0\ref\EjemploClase.dll
+C:\Users\Lenovo\source\repos\EjemploClase\EjemploClase\obj\Debug\net6.0\EjemploClase.pdb
+C:\Users\Lenovo\source\repos\EjemploClase\EjemploClase\obj\Debug\net6.0\EjemploClase.genruntimeconfig.cache
